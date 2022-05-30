@@ -9,9 +9,17 @@
   8. [Github](#Github)
   9. [Email](#Email)
   
-  # Just Another Text Editor
+# Just Another Text Editor
+
+![jate](https://user-images.githubusercontent.com/95437073/171063161-af5288da-6ffe-4fec-9a06-e52ddfaa81a1.JPG)
+
 # Description
 A web application that you can also download
+
+Application is now live at: https://polar-retreat-87991.herokuapp.com/
+
+Demo Video:
+https://youtu.be/tCLAQpFyNKM
 # Installation
 Download the repository, run npm i to install dependencies, run node server to launch the application to localhost. Once launched the app can also be downloaded to the desktop
 # Benefits
